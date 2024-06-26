@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I am Tattvam! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### I am a Web developer, i love to code. 
 
-<!--
-**tattvam03/tattvam03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little about me:
+- 🇮🇳  I am from India
+- 👦🏻  My Pronouns: He/Him
+- ⚙️  I am currently working on:
+- 🧑🏻‍💻  I work best in: `.py`, `.js`, `.html`, `.css`,
+- 🌱  I am currently learning about MERN
+- 💬  Ping me about **Web Development**, **AI**, **Games**, and **Football** 
+- ⚽️  **Visca El Barça** 🔵🔴
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach me: tattvamcodes@gmail.com
