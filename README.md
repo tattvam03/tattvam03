@@ -7,7 +7,7 @@
 - ⚙️  I am currently working on:
 - 🧑🏻‍💻  I work best in: `.py`, `.js`, `.html`, `.css`,
 - 🌱  I am currently learning about MERN
-- 💬  Ping me about **Web Development**, **AI**, **Games**, and **Football** 
+- 💬  Ping me about **Web Development**, **AI**, **Games**, **Brawlhalla** and **Football** 
 - ⚽️  **Visca El Barça** 🔵🔴
 
 ### Reach me: tattvamcodes@gmail.com
