@@ -5,7 +5,7 @@
 - 🇮🇳  I am from India
 - 👦🏻  My Pronouns: He/Him
 - ⚙️  I am currently working on:
-- 🧑🏻‍💻  I work best in: `.py`, `.js`, `.html`, `.css`,
+- 🧑🏻‍💻  I work best in: `.py`, `.js`, `.html`, `.css`
 - 🌱  I am currently learning about MERN
 - 💬  Ping me about **Web Development**, **AI**, **ML**, **Games**, **Brawlhalla** and **Football** 
 - ⚽️  **Visca El Barça** 🔵🔴
