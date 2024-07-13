@@ -13,3 +13,7 @@
 - ⚽️  **Visca El Barça** 🔵🔴
 
 ### Reach me: tattvamcodes@gmail.com
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
