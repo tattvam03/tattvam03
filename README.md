@@ -5,6 +5,8 @@
 - 🇮🇳  I am from India
 - 👦🏻  My Pronouns: He/Him
 - ⚙️  I am currently working on:
+  - Face and Eye Detection written in Python using OpenCV
+  - Movie Recommendation System written in Python
 - 🧑🏻‍💻  I work best in: `.py`, `.js`, `.html`, `.css`
 - 🌱  I am currently learning about MERN
 - 💬  Ping me about **Web Development**, **AI**, **ML**, **Games**, **Brawlhalla** and **Football** 
